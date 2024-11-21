@@ -1,2 +1,4 @@
 requests
 fastapi
+pyjwt
+python-dotenv
