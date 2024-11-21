@@ -67,10 +67,10 @@ async def root(request: Request, service="", ticket=""):
         # Encrypt the data with JWT
         token = create_jwt(payload, SECRET_KEY)
         
-        return {
-            "message": "Data successfully encrypted",
-            "jwt_token": token
-        }
+        form_link = f"https://docs.google.com/forms/d/e/1FAIpQLSfmezRnUNFS9ebnOlEk9jAd7qA1aAh5FybcVCLcodSU4IPbPQ/viewform?usp=pp_url&entry.587698648={token}"
+        
+        return RedirectResponse(url=form_link)
+        
     except ET.ParseError as e:
         print(f"XML Parsing Error: {e}")
         return {"error": "Failed to parse the XML response", "details": str(e)}
