@@ -13,10 +13,10 @@ load_dotenv()
 app = FastAPI()
 
 # Load the secret key from environment variable
-SECRET_KEY = os.getenv("SECRET_KEY")
-if not SECRET_KEY:
-    raise ValueError("SECRET_KEY is not set in the environment variables!")
+SECRET_KEY = os.getenv("SECRET_KEY") 
 
+if not SECRET_KEY:
+    SECRET_KEY = "hehe"
 
 def create_jwt(payload: dict, secret: str, algorithm: str = "HS256"):
     """
