@@ -77,3 +77,8 @@ async def root(request: Request, service="", ticket=""):
     except Exception as e:
         print(f"Unexpected Error: {e}")
         return {"error": "An unexpected error occurred", "details": str(e)}
+
+
+if __name__ == '__main__':
+    import uvicorn
+    uvicorn.run(app)
