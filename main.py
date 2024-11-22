@@ -1,3 +1,4 @@
+import json
 import os
 import xml.etree.ElementTree as ET
 import urllib.request
@@ -14,6 +15,12 @@ app = FastAPI()
 # Load the secret key from environment variable
 SECRET_KEY = os.getenv("SECRET_KEY") 
 
+
+# Open Json
+with open ("parsed.json", "r") as file:
+    faculty_data = json.load(file)
+    
+
 @app.get("/")
 async def root(request: Request, service="", ticket=""):
     current_url = request.url
@@ -28,7 +35,6 @@ async def root(request: Request, service="", ticket=""):
         with urllib.request.urlopen(fetch_url) as response:
             raw_data = response.read().decode("utf-8")
         
-        print(f"Raw XML Response: {raw_data}")
         cleaned_xml = raw_data.strip()
         root = ET.fromstring(cleaned_xml)
         namespace = {'cas': 'http://www.yale.edu/tp/cas'}
@@ -50,10 +56,31 @@ async def root(request: Request, service="", ticket=""):
             "npm": npm
         }
         
+        
+        # Get Json Data based on organizational code
+        user_faculty_data = [faculty for faculty in faculty_data if faculty["id"] == kd_org][0]
+        
         # Encrypt the data with JWT
         token = jwt.encode(payload=payload, key=SECRET_KEY, algorithm='HS256')
         
-        form_link = f"https://docs.google.com/forms/d/e/1FAIpQLSeV_S_yNn9ZNtqTl__qULJZ-KwGH0uWmQGnm2n7fOIEvkmJFQ/viewform?usp=pp_url&entry.194718133={token}"
+        name = name.replace(" ", "+")
+        npm_prefix = npm[:2]
+        
+        faculty = (user_faculty_data["fakultas"]).replace(" ", "+")
+        major = user_faculty_data["prodi"].replace(" ", "+")
+        
+        
+        if (npm_prefix == "22"):
+            batch = "2022"
+        elif (npm_prefix == "23"):
+            batch = "2023"
+        elif (npm_prefix == "24"):
+            batch = "2024"
+
+        
+        form_link = f"https://docs.google.com/forms/d/e/1FAIpQLSeV_S_yNn9ZNtqTl__qULJZ-KwGH0uWmQGnm2n7fOIEvkmJFQ/viewform?usp=pp_url&entry.194718133={token}&entry.1937980029={name}&entry.1698494109=Fakultas+{faculty}&entry.1912384214={major}&entry.430556260={batch}&entry.713211935={user}@ui.ac.id"
+        
+        print(f"Redirecting to: {form_link}")
         
         return RedirectResponse(url=form_link)
         

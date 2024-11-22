@@ -1,0 +1,2242 @@
+[
+    {
+        "id": "03.06.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S3 Ilmu Kesejahteraan Sosial"
+    },
+    {
+        "id": "02.06.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S2 Ilmu Kesejahteraan Sosial"
+    },
+    {
+        "id": "04.06.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Paralel Ilmu Kesejahteraan Sosial"
+    },
+    {
+        "id": "01.06.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Reguler Ilmu Kesejahteraan Sosial"
+    },
+    {
+        "id": "04.04.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S3 Biologi"
+    },
+    {
+        "id": "03.04.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S2 Ilmu Kelautan"
+    },
+    {
+        "id": "02.04.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S2 Biologi"
+    },
+    {
+        "id": "01.04.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S1 Reguler Biologi"
+    },
+    {
+        "id": "02.06.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S2 Geografi"
+    },
+    {
+        "id": "05.06.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S1 Paralel Geografi"
+    },
+    {
+        "id": "01.06.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S1 Reguler Geografi"
+    },
+    {
+        "id": "03.02.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S3 Ilmu Filsafat"
+    },
+    {
+        "id": "02.02.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S2 Filsafat"
+    },
+    {
+        "id": "04.02.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Paralel Ilmu Filsafat"
+    },
+    {
+        "id": "01.02.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Reguler Ilmu Filsafat"
+    },
+    {
+        "id": "03.03.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S2 Ilmu Perpustakaan"
+    },
+    {
+        "id": "04.03.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Ekstensi Ilmu Perpustakaan"
+    },
+    {
+        "id": "02.03.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Reguler Ilmu Perpustakaan"
+    },
+    {
+        "id": "05.03.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Paralel Ilmu Perpustakaan"
+    },
+    {
+        "id": "01.03.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "D3 Manajemen Informasi dan Dokumen"
+    },
+    {
+        "id": "02.05.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S3 Ilmu Susastra"
+    },
+    {
+        "id": "01.05.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S2 Ilmu Susastra"
+    },
+    {
+        "id": "05.04.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S1 Paralel Biologi"
+    },
+    {
+        "id": "02.06.10.01",
+        "fakultas": "Kesehatan Masyarakat",
+        "prodi": "S2 Keselamatan dan Kesehatan Kerja"
+    },
+    {
+        "id": "01.06.10.01",
+        "fakultas": "Kesehatan Masyarakat",
+        "prodi": "D3 Keselamatan dan Kesehatan Kerja"
+    },
+    {
+        "id": "03.01.15.01",
+        "fakultas": "Pendidikan Vokasi",
+        "prodi": "D4 Bisnis Kreatif"
+    },
+    {
+        "id": "05.01.15.01",
+        "fakultas": "Pendidikan Vokasi",
+        "prodi": "D4 Fisioterapi"
+    },
+    {
+        "id": "04.01.15.01",
+        "fakultas": "Pendidikan Vokasi",
+        "prodi": "D4 Produksi Media"
+    },
+    {
+        "id": "06.01.15.01",
+        "fakultas": "Pendidikan Vokasi",
+        "prodi": "D4 Terapi Okupasi"
+    },
+    {
+        "id": "02.01.15.01",
+        "fakultas": "Pendidikan Vokasi",
+        "prodi": "D4 Manajemen Rekod dan Arsip"
+    },
+    {
+        "id": "01.01.15.01",
+        "fakultas": "Pendidikan Vokasi",
+        "prodi": "D4 Manajemen Bisnis Pariwisata"
+    },
+    {
+        "id": "01.02.15.01",
+        "fakultas": "Pendidikan Vokasi",
+        "prodi": "S2 Industri Kreatif"
+    },
+    {
+        "id": "13.00.15.01",
+        "fakultas": "Pendidikan Vokasi",
+        "prodi": "D3 Penyiaran Multimedia"
+    },
+    {
+        "id": "12.00.15.01",
+        "fakultas": "Pendidikan Vokasi",
+        "prodi": "D3 Periklanan Kreatif"
+    },
+    {
+        "id": "10.00.15.01",
+        "fakultas": "Pendidikan Vokasi",
+        "prodi": "D3 Administrasi Perpajakan"
+    },
+    {
+        "id": "09.00.15.01",
+        "fakultas": "Pendidikan Vokasi",
+        "prodi": "D3 Administrasi Perkantoran"
+    },
+    {
+        "id": "08.00.15.01",
+        "fakultas": "Pendidikan Vokasi",
+        "prodi": "D3 Administrasi Keuangan dan Perbankan"
+    },
+    {
+        "id": "07.00.15.01",
+        "fakultas": "Pendidikan Vokasi",
+        "prodi": "D3 Administrasi Asuransi dan Aktuaria"
+    },
+    {
+        "id": "06.00.15.01",
+        "fakultas": "Pendidikan Vokasi",
+        "prodi": "D3 Hubungan Masyarakat"
+    },
+    {
+        "id": "05.00.15.01",
+        "fakultas": "Pendidikan Vokasi",
+        "prodi": "D3 Manajemen Rekod dan Arsip"
+    },
+    {
+        "id": "04.00.15.01",
+        "fakultas": "Pendidikan Vokasi",
+        "prodi": "D3 Akuntansi"
+    },
+    {
+        "id": "03.00.15.01",
+        "fakultas": "Pendidikan Vokasi",
+        "prodi": "D3 Okupasi Terapi"
+    },
+    {
+        "id": "02.00.15.01",
+        "fakultas": "Pendidikan Vokasi",
+        "prodi": "D3 Fisioterapi"
+    },
+    {
+        "id": "01.00.15.01",
+        "fakultas": "Pendidikan Vokasi",
+        "prodi": "D3 Administrasi Rumah Sakit"
+    },
+    {
+        "id": "11.00.15.01",
+        "fakultas": "Pendidikan Vokasi",
+        "prodi": "D3 Pariwisata"
+    },
+    {
+        "id": "03.00.16.01",
+        "fakultas": "Perolehan Kredit",
+        "prodi": "S3 Pertukaran Mahasiswa"
+    },
+    {
+        "id": "03.HC.16.01",
+        "fakultas": "Perolehan Kredit",
+        "prodi": "S3 Honoris Causa"
+    },
+    {
+        "id": "02.00.16.01",
+        "fakultas": "Perolehan Kredit",
+        "prodi": "S2 Pertukaran Mahasiswa"
+    },
+    {
+        "id": "03.01.16.01",
+        "fakultas": "Perolehan Kredit",
+        "prodi": "Perolehan Kredit UI Creates"
+    },
+    {
+        "id": "02.01.16.01",
+        "fakultas": "Perolehan Kredit",
+        "prodi": "Perolehan Kredit Perkuliahan Daring"
+    },
+    {
+        "id": "04.01.16.01",
+        "fakultas": "Perolehan Kredit",
+        "prodi": "Perolehan Kredit Massive Open Online Courses"
+    },
+    {
+        "id": "01.01.16.01",
+        "fakultas": "Perolehan Kredit",
+        "prodi": "Perolehan Kredit Perolehan Kredit"
+    },
+    {
+        "id": "01.00.16.01",
+        "fakultas": "Perolehan Kredit",
+        "prodi": "S1 Reguler Pertukaran Mahasiswa"
+    },
+    {
+        "id": "04.01.10.01",
+        "fakultas": "Kesehatan Masyarakat",
+        "prodi": "S2 Administrasi Rumah Sakit"
+    },
+    {
+        "id": "03.01.10.01",
+        "fakultas": "Kesehatan Masyarakat",
+        "prodi": "D3 Manajemen Pelayanan Rumah Sakit"
+    },
+    {
+        "id": "01.01.10.01",
+        "fakultas": "Kesehatan Masyarakat",
+        "prodi": "D3 Asuransi Kesehatan"
+    },
+    {
+        "id": "02.01.10.01",
+        "fakultas": "Kesehatan Masyarakat",
+        "prodi": "D3 Manajemen Informasi Kesehatan dan Rekam Medis"
+    },
+    {
+        "id": "02.03.10.01",
+        "fakultas": "Kesehatan Masyarakat",
+        "prodi": "S3 Epidemiologi"
+    },
+    {
+        "id": "01.03.10.01",
+        "fakultas": "Kesehatan Masyarakat",
+        "prodi": "S2 Epidemiologi"
+    },
+    {
+        "id": "01.04.10.01",
+        "fakultas": "Kesehatan Masyarakat",
+        "prodi": "S1 Reguler Gizi"
+    },
+    {
+        "id": "02.04.10.01",
+        "fakultas": "Kesehatan Masyarakat",
+        "prodi": "S1 Paralel Gizi"
+    },
+    {
+        "id": "02.07.10.01",
+        "fakultas": "Kesehatan Masyarakat",
+        "prodi": "D3 Promosi dan Pendidikan Kesehatan"
+    },
+    {
+        "id": "01.07.10.01",
+        "fakultas": "Kesehatan Masyarakat",
+        "prodi": "D3 Kehumasan Pelayanan Kesehatan"
+    },
+    {
+        "id": "12.00.02.01",
+        "fakultas": "Kedokteran Gigi",
+        "prodi": "Spesialis 1 Prostodonsia"
+    },
+    {
+        "id": "11.00.02.01",
+        "fakultas": "Kedokteran Gigi",
+        "prodi": "Spesialis 1 Periodonsia"
+    },
+    {
+        "id": "09.00.02.01",
+        "fakultas": "Kedokteran Gigi",
+        "prodi": "Spesialis 1 Ilmu Penyakit Mulut"
+    },
+    {
+        "id": "14.00.02.01",
+        "fakultas": "Kedokteran Gigi",
+        "prodi": "Spesialis 1 Radiologi Kedokteran Gigi"
+    },
+    {
+        "id": "15.00.02.01",
+        "fakultas": "Kedokteran Gigi",
+        "prodi": "Spesialis 1 Odontologi Forensik"
+    },
+    {
+        "id": "07.00.02.01",
+        "fakultas": "Kedokteran Gigi",
+        "prodi": "Spesialis 1 Kedokteran Gigi Anak"
+    },
+    {
+        "id": "10.00.02.01",
+        "fakultas": "Kedokteran Gigi",
+        "prodi": "Spesialis 1 Ortodonsia"
+    },
+    {
+        "id": "08.00.02.01",
+        "fakultas": "Kedokteran Gigi",
+        "prodi": "Spesialis 1 Ilmu Konservasi Gigi"
+    },
+    {
+        "id": "06.00.02.01",
+        "fakultas": "Kedokteran Gigi",
+        "prodi": "Spesialis 1 Bedah Mulut dan Maksilofasial"
+    },
+    {
+        "id": "02.00.02.01",
+        "fakultas": "Kedokteran Gigi",
+        "prodi": "Profesi Pendidikan Dokter Gigi"
+    },
+    {
+        "id": "16.00.02.01",
+        "fakultas": "Kedokteran Gigi",
+        "prodi": "Profesi Kls Internasional Pendidikan Dokter Gigi"
+    },
+    {
+        "id": "05.00.02.01",
+        "fakultas": "Kedokteran Gigi",
+        "prodi": "S3 Ilmu Kedokteran Gigi"
+    },
+    {
+        "id": "03.00.02.01",
+        "fakultas": "Kedokteran Gigi",
+        "prodi": "S2 Ilmu Kedokteran Gigi Dasar"
+    },
+    {
+        "id": "04.00.02.01",
+        "fakultas": "Kedokteran Gigi",
+        "prodi": "S2 Ilmu Kedokteran Gigi Komunitas"
+    },
+    {
+        "id": "13.00.02.01",
+        "fakultas": "Kedokteran Gigi",
+        "prodi": "S1 Kls Internasional Pendidikan Dokter Gigi"
+    },
+    {
+        "id": "01.00.02.01",
+        "fakultas": "Kedokteran Gigi",
+        "prodi": "S1 Reguler Pendidikan Dokter Gigi"
+    },
+    {
+        "id": "01.00.04.01",
+        "fakultas": "Teknik",
+        "prodi": "Profesi Insinyur"
+    },
+    {
+        "id": "02.00.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S2 Teknik Sistem Energi"
+    },
+    {
+        "id": "03.00.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S2 Perencanaan Wilayah dan Kota"
+    },
+    {
+        "id": "05.00.05.01",
+        "fakultas": "Hukum",
+        "prodi": "S3 Ilmu Hukum"
+    },
+    {
+        "id": "04.00.05.01",
+        "fakultas": "Hukum",
+        "prodi": "S2 Kenotariatan"
+    },
+    {
+        "id": "03.00.05.01",
+        "fakultas": "Hukum",
+        "prodi": "S2 Ilmu Hukum"
+    },
+    {
+        "id": "02.00.05.01",
+        "fakultas": "Hukum",
+        "prodi": "S1 Ekstensi Ilmu Hukum - Ekstensi"
+    },
+    {
+        "id": "06.00.05.01",
+        "fakultas": "Hukum",
+        "prodi": "S1 Paralel Ilmu Hukum"
+    },
+    {
+        "id": "07.00.05.01",
+        "fakultas": "Hukum",
+        "prodi": "S1 Kls Internasional Ilmu Hukum"
+    },
+    {
+        "id": "01.00.05.01",
+        "fakultas": "Hukum",
+        "prodi": "S1 Reguler Ilmu Hukum"
+    },
+    {
+        "id": "11.01.06.01",
+        "fakultas": "Ekonomi dan Bisnis",
+        "prodi": "S1 Kls Internasional Bisnis Islam"
+    },
+    {
+        "id": "10.01.06.01",
+        "fakultas": "Ekonomi dan Bisnis",
+        "prodi": "S1 Kls Internasional Ilmu Ekonomi Islam"
+    },
+    {
+        "id": "07.01.06.01",
+        "fakultas": "Ekonomi dan Bisnis",
+        "prodi": "S1 Reguler Ilmu Ekonomi Islam"
+    },
+    {
+        "id": "08.01.06.01",
+        "fakultas": "Ekonomi dan Bisnis",
+        "prodi": "S1 Reguler Bisnis Islam"
+    },
+    {
+        "id": "06.03.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S3 Kajian Informasi"
+    },
+    {
+        "id": "29.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S2 Asia Timur"
+    },
+    {
+        "id": "28.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S2 Asia Tenggara"
+    },
+    {
+        "id": "26.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Paralel Sastra Belanda"
+    },
+    {
+        "id": "23.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Paralel Sastra Perancis"
+    },
+    {
+        "id": "22.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Paralel Sastra Inggris"
+    },
+    {
+        "id": "21.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Paralel Sastra Jepang"
+    },
+    {
+        "id": "20.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Paralel Sastra Arab"
+    },
+    {
+        "id": "27.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Paralel Bahasa dan Kebudayaan Korea"
+    },
+    {
+        "id": "18.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Reguler Bahasa dan Kebudayaan Korea"
+    },
+    {
+        "id": "11.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Reguler Sastra Cina"
+    },
+    {
+        "id": "09.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Reguler Sastra Indonesia"
+    },
+    {
+        "id": "32.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Paralel Sastra Rusia"
+    },
+    {
+        "id": "31.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Paralel Sastra Daerah untuk Sastra Jawa"
+    },
+    {
+        "id": "30.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Paralel Sastra Indonesia"
+    },
+    {
+        "id": "24.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Paralel Sastra Jerman"
+    },
+    {
+        "id": "15.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Reguler Sastra Jerman"
+    },
+    {
+        "id": "19.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Paralel Sastra Cina"
+    },
+    {
+        "id": "08.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Reguler Sastra Arab"
+    },
+    {
+        "id": "16.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Reguler Sastra Rusia"
+    },
+    {
+        "id": "14.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Reguler Sastra Perancis"
+    },
+    {
+        "id": "13.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Reguler Sastra Inggris"
+    },
+    {
+        "id": "12.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Reguler Sastra Jepang"
+    },
+    {
+        "id": "17.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Reguler Sastra Belanda"
+    },
+    {
+        "id": "10.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Reguler Sastra Daerah untuk Sastra Jawa"
+    },
+    {
+        "id": "06.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "D3 Bahasa Jerman"
+    },
+    {
+        "id": "05.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "D3 Bahasa Perancis"
+    },
+    {
+        "id": "03.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "D3 Bahasa Jepang"
+    },
+    {
+        "id": "07.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "D3 Bahasa Belanda"
+    },
+    {
+        "id": "04.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "D3 Bahasa Inggris"
+    },
+    {
+        "id": "02.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "D3 Bahasa Arab"
+    },
+    {
+        "id": "01.00.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "D3 Bahasa Cina"
+    },
+    {
+        "id": "09.00.08.01",
+        "fakultas": "Psikologi",
+        "prodi": "Profesi Pendidikan Profesi Psikologi"
+    },
+    {
+        "id": "05.00.08.01",
+        "fakultas": "Psikologi",
+        "prodi": "S3 Psikologi"
+    },
+    {
+        "id": "04.00.08.01",
+        "fakultas": "Psikologi",
+        "prodi": "S2 Psikologi"
+    },
+    {
+        "id": "06.00.08.01",
+        "fakultas": "Psikologi",
+        "prodi": "S2 Psikologi Profesi"
+    },
+    {
+        "id": "08.00.08.01",
+        "fakultas": "Psikologi",
+        "prodi": "S2 Psikologi Terapan"
+    },
+    {
+        "id": "07.00.08.01",
+        "fakultas": "Psikologi",
+        "prodi": "S1 Paralel Psikologi"
+    },
+    {
+        "id": "03.00.08.01",
+        "fakultas": "Psikologi",
+        "prodi": "S1 Ekstensi Psikologi"
+    },
+    {
+        "id": "02.00.08.01",
+        "fakultas": "Psikologi",
+        "prodi": "S1 Kls Internasional Psikologi"
+    },
+    {
+        "id": "01.00.08.01",
+        "fakultas": "Psikologi",
+        "prodi": "S1 Reguler Psikologi"
+    },
+    {
+        "id": "05.00.10.01",
+        "fakultas": "Kesehatan Masyarakat",
+        "prodi": "S3 Ilmu Kesehatan Masyarakat"
+    },
+    {
+        "id": "03.00.10.01",
+        "fakultas": "Kesehatan Masyarakat",
+        "prodi": "S2 Ilmu Kesehatan Masyarakat"
+    },
+    {
+        "id": "04.00.10.01",
+        "fakultas": "Kesehatan Masyarakat",
+        "prodi": "S2 Kls Internasional Ilmu Kesehatan Masyarakat"
+    },
+    {
+        "id": "06.00.10.01",
+        "fakultas": "Kesehatan Masyarakat",
+        "prodi": "S1 Reguler Kesehatan Lingkungan"
+    },
+    {
+        "id": "03.06.10.01",
+        "fakultas": "Kesehatan Masyarakat",
+        "prodi": "S1 Reguler Keselamatan dan Kesehatan Kerja"
+    },
+    {
+        "id": "02.00.10.01",
+        "fakultas": "Kesehatan Masyarakat",
+        "prodi": "S1 Ekstensi Kesehatan Masyarakat"
+    },
+    {
+        "id": "08.00.10.01",
+        "fakultas": "Kesehatan Masyarakat",
+        "prodi": "S1 Paralel Kesehatan Lingkungan"
+    },
+    {
+        "id": "07.00.10.01",
+        "fakultas": "Kesehatan Masyarakat",
+        "prodi": "S1 Paralel Kesehatan Masyarakat"
+    },
+    {
+        "id": "04.06.10.01",
+        "fakultas": "Kesehatan Masyarakat",
+        "prodi": "S1 Paralel Keselamatan dan Kesehatan Kerja"
+    },
+    {
+        "id": "01.00.10.01",
+        "fakultas": "Kesehatan Masyarakat",
+        "prodi": "S1 Reguler Kesehatan Masyarakat"
+    },
+    {
+        "id": "05.00.12.01",
+        "fakultas": "Ilmu Komputer",
+        "prodi": "S3 Ilmu Komputer"
+    },
+    {
+        "id": "04.00.12.01",
+        "fakultas": "Ilmu Komputer",
+        "prodi": "S2 Teknologi Informasi"
+    },
+    {
+        "id": "03.00.12.01",
+        "fakultas": "Ilmu Komputer",
+        "prodi": "S2 Ilmu Komputer"
+    },
+    {
+        "id": "09.00.12.01",
+        "fakultas": "Ilmu Komputer",
+        "prodi": "S1 Paralel Ilmu Komputer"
+    },
+    {
+        "id": "08.00.12.01",
+        "fakultas": "Ilmu Komputer",
+        "prodi": "S1 Paralel Sistem Informasi"
+    },
+    {
+        "id": "07.00.12.01",
+        "fakultas": "Ilmu Komputer",
+        "prodi": "S1 Ekstensi Sistem Informasi - Ekstensi"
+    },
+    {
+        "id": "06.00.12.01",
+        "fakultas": "Ilmu Komputer",
+        "prodi": "S1 Reguler Sistem Informasi"
+    },
+    {
+        "id": "02.00.12.01",
+        "fakultas": "Ilmu Komputer",
+        "prodi": "S1 Kls Internasional Ilmu Komputer"
+    },
+    {
+        "id": "01.00.12.01",
+        "fakultas": "Ilmu Komputer",
+        "prodi": "S1 Reguler Ilmu Komputer"
+    },
+    {
+        "id": "02.01.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S2 Matematika"
+    },
+    {
+        "id": "04.01.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S1 Reguler Statistika"
+    },
+    {
+        "id": "03.01.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S1 Paralel Matematika"
+    },
+    {
+        "id": "06.01.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S1 Paralel Statistika"
+    },
+    {
+        "id": "05.01.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S1 Reguler Ilmu Aktuaria"
+    },
+    {
+        "id": "07.01.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S1 Paralel Ilmu Aktuaria"
+    },
+    {
+        "id": "01.01.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S1 Reguler Matematika"
+    },
+    {
+        "id": "08.02.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S3 Ilmu Fisika"
+    },
+    {
+        "id": "04.06.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S3 Ilmu Bahan-bahan/Material"
+    },
+    {
+        "id": "03.06.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S2 Ilmu Bahan-bahan/Material"
+    },
+    {
+        "id": "04.02.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S2 Ilmu Fisika"
+    },
+    {
+        "id": "11.02.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S2 Fisika Medis"
+    },
+    {
+        "id": "05.02.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S1 Paralel Fisika"
+    },
+    {
+        "id": "07.02.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S1 Reguler Geologi"
+    },
+    {
+        "id": "06.02.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S1 Reguler Geofisika"
+    },
+    {
+        "id": "10.02.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S1 Paralel Geologi"
+    },
+    {
+        "id": "09.02.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S1 Paralel Geofisika"
+    },
+    {
+        "id": "03.02.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S1 Ekstensi Fisika - Ekstensi"
+    },
+    {
+        "id": "02.02.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S1 Reguler Fisika"
+    },
+    {
+        "id": "01.02.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "D3 Fisika Instrumentasi"
+    },
+    {
+        "id": "05.03.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S3 Ilmu Kimia"
+    },
+    {
+        "id": "04.03.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S2 Ilmu Kimia"
+    },
+    {
+        "id": "06.03.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S1 Paralel Kimia"
+    },
+    {
+        "id": "03.03.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S1 Ekstensi Kimia - Ekstensi"
+    },
+    {
+        "id": "02.03.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S1 Reguler Kimia"
+    },
+    {
+        "id": "01.03.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "D3 Kimia Terapan"
+    },
+    {
+        "id": "06.01.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S3 Teknik Sipil"
+    },
+    {
+        "id": "05.01.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S2 Teknik Sipil"
+    },
+    {
+        "id": "09.01.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S2 Teknik Lingkungan"
+    },
+    {
+        "id": "07.01.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Paralel Teknik Sipil"
+    },
+    {
+        "id": "01.01.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Reguler Teknik Sipil"
+    },
+    {
+        "id": "10.01.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Kls Internasional Teknik Lingkungan"
+    },
+    {
+        "id": "08.01.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Paralel Teknik Lingkungan"
+    },
+    {
+        "id": "02.01.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Reguler Teknik Lingkungan"
+    },
+    {
+        "id": "03.01.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Ekstensi Teknik Sipil - Ekstensi"
+    },
+    {
+        "id": "04.01.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Kls Internasional Teknik Sipil"
+    },
+    {
+        "id": "06.02.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S3 Teknik Mesin"
+    },
+    {
+        "id": "05.02.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S2 Teknik Mesin"
+    },
+    {
+        "id": "07.02.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Paralel Teknik Mesin"
+    },
+    {
+        "id": "02.02.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Reguler Teknik Perkapalan"
+    },
+    {
+        "id": "01.02.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Reguler Teknik Mesin"
+    },
+    {
+        "id": "08.02.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Paralel Teknik Perkapalan"
+    },
+    {
+        "id": "04.02.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Kls Internasional Teknik Mesin"
+    },
+    {
+        "id": "03.02.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Ekstensi Teknik Mesin"
+    },
+    {
+        "id": "07.03.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S3 Opto Elektroteknika dan Aplikasi Laser"
+    },
+    {
+        "id": "08.03.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S3 Teknik Elektro"
+    },
+    {
+        "id": "06.03.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S2 Opto Elektroteknika dan Aplikasi Laser"
+    },
+    {
+        "id": "11.03.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S2 Teknologi Biomedis"
+    },
+    {
+        "id": "09.03.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S2 Kls Internasional Teknik Elektro"
+    },
+    {
+        "id": "05.03.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S2 Teknik Elektro"
+    },
+    {
+        "id": "13.03.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Paralel Teknik Komputer"
+    },
+    {
+        "id": "04.03.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Kls Internasional Teknik Elektro"
+    },
+    {
+        "id": "12.03.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Reguler Teknik Biomedik"
+    },
+    {
+        "id": "03.03.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Ekstensi Teknik Elektro - Ekstensi"
+    },
+    {
+        "id": "15.03.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Kls Internasional Teknik Komputer"
+    },
+    {
+        "id": "02.03.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Reguler Teknik Komputer"
+    },
+    {
+        "id": "10.03.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Paralel Teknik Elektro"
+    },
+    {
+        "id": "01.03.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Reguler Teknik Elektro"
+    },
+    {
+        "id": "14.03.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Paralel Teknik Biomedik"
+    },
+    {
+        "id": "05.04.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S3 Teknik Metalurgi dan Material"
+    },
+    {
+        "id": "04.04.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S2 Teknik Metalurgi dan Material"
+    },
+    {
+        "id": "07.04.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S2 Manajemen Integritas Material"
+    },
+    {
+        "id": "02.04.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Ekstensi Teknik Metalurgi dan Material - Ekstensi"
+    },
+    {
+        "id": "06.04.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Paralel Teknik Metalurgi dan Material"
+    },
+    {
+        "id": "03.04.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Kls Internasional Teknik Metalurgi dan Material"
+    },
+    {
+        "id": "01.04.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Reguler Teknik Metalurgi dan Material"
+    },
+    {
+        "id": "07.05.04.01",
+        "fakultas": "Teknik",
+        "prodi": "Profesi Arsitek"
+    },
+    {
+        "id": "06.05.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S3 Arsitektur"
+    },
+    {
+        "id": "03.05.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S2 Arsitektur"
+    },
+    {
+        "id": "09.05.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Paralel Arsitektur Interior"
+    },
+    {
+        "id": "08.05.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Paralel Arsitektur"
+    },
+    {
+        "id": "05.05.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Reguler Arsitektur Interior"
+    },
+    {
+        "id": "02.05.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Ekstensi Arsitektur"
+    },
+    {
+        "id": "04.05.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Kls Internasional Arsitektur"
+    },
+    {
+        "id": "01.05.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Reguler Arsitektur"
+    },
+    {
+        "id": "05.06.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S3 Teknik Kimia"
+    },
+    {
+        "id": "04.06.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S2 Teknik Kimia"
+    },
+    {
+        "id": "09.02.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Kls Internasional Teknik Perkapalan"
+    },
+    {
+        "id": "08.06.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Kls Internasional Teknik Bioproses"
+    },
+    {
+        "id": "07.06.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Paralel Teknik Kimia"
+    },
+    {
+        "id": "03.06.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Kls Internasional Teknik Kimia"
+    },
+    {
+        "id": "06.06.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Reguler Teknik Bioproses"
+    },
+    {
+        "id": "09.06.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Paralel Teknik Bioproses"
+    },
+    {
+        "id": "02.06.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Ekstensi Teknik Kimia - Ekstensi"
+    },
+    {
+        "id": "01.06.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Reguler Teknik Kimia"
+    },
+    {
+        "id": "05.07.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S3 Teknik Industri"
+    },
+    {
+        "id": "03.07.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S2 Teknik Industri"
+    },
+    {
+        "id": "06.07.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Kls Internasional Teknik Industri"
+    },
+    {
+        "id": "04.07.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Paralel Teknik Industri"
+    },
+    {
+        "id": "01.07.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Reguler Teknik Industri"
+    },
+    {
+        "id": "02.07.04.01",
+        "fakultas": "Teknik",
+        "prodi": "S1 Ekstensi Teknik Industri - Ekstensi"
+    },
+    {
+        "id": "05.01.06.01",
+        "fakultas": "Ekonomi dan Bisnis",
+        "prodi": "S3 Ilmu Ekonomi"
+    },
+    {
+        "id": "06.01.06.01",
+        "fakultas": "Ekonomi dan Bisnis",
+        "prodi": "S2 Kls Internasional Ilmu Ekonomi"
+    },
+    {
+        "id": "03.01.06.01",
+        "fakultas": "Ekonomi dan Bisnis",
+        "prodi": "S2 Ilmu Ekonomi"
+    },
+    {
+        "id": "04.01.06.01",
+        "fakultas": "Ekonomi dan Bisnis",
+        "prodi": "S2 Magister Perencanaan Ekonomi dan Kebijakan Pembangunan"
+    },
+    {
+        "id": "09.01.06.01",
+        "fakultas": "Ekonomi dan Bisnis",
+        "prodi": "S2 Magister Ekonomi Kependudukan dan Ketenagakerjaan"
+    },
+    {
+        "id": "02.01.06.01",
+        "fakultas": "Ekonomi dan Bisnis",
+        "prodi": "S1 Kls Internasional Ilmu Ekonomi"
+    },
+    {
+        "id": "01.01.06.01",
+        "fakultas": "Ekonomi dan Bisnis",
+        "prodi": "S1 Reguler Ilmu Ekonomi"
+    },
+    {
+        "id": "06.02.06.01",
+        "fakultas": "Ekonomi dan Bisnis",
+        "prodi": "S3 Ilmu Manajemen"
+    },
+    {
+        "id": "04.02.06.01",
+        "fakultas": "Ekonomi dan Bisnis",
+        "prodi": "S2 Ilmu Manajemen"
+    },
+    {
+        "id": "07.02.06.01",
+        "fakultas": "Ekonomi dan Bisnis",
+        "prodi": "S2 Magister Manajemen"
+    },
+    {
+        "id": "05.02.06.01",
+        "fakultas": "Ekonomi dan Bisnis",
+        "prodi": "S2 Magister Manajemen"
+    },
+    {
+        "id": "03.02.06.01",
+        "fakultas": "Ekonomi dan Bisnis",
+        "prodi": "S1 Ekstensi Manajemen"
+    },
+    {
+        "id": "02.02.06.01",
+        "fakultas": "Ekonomi dan Bisnis",
+        "prodi": "S1 Kls Internasional Manajemen"
+    },
+    {
+        "id": "01.02.06.01",
+        "fakultas": "Ekonomi dan Bisnis",
+        "prodi": "S1 Reguler Manajemen"
+    },
+    {
+        "id": "05.03.06.01",
+        "fakultas": "Ekonomi dan Bisnis",
+        "prodi": "Profesi Profesi Akuntan"
+    },
+    {
+        "id": "08.03.06.01",
+        "fakultas": "Ekonomi dan Bisnis",
+        "prodi": "S3 Ilmu Akuntansi"
+    },
+    {
+        "id": "07.03.06.01",
+        "fakultas": "Ekonomi dan Bisnis",
+        "prodi": "S2 Ilmu Akuntansi"
+    },
+    {
+        "id": "09.03.06.01",
+        "fakultas": "Ekonomi dan Bisnis",
+        "prodi": "S2 Magister Akuntansi"
+    },
+    {
+        "id": "06.03.06.01",
+        "fakultas": "Ekonomi dan Bisnis",
+        "prodi": "S2 Magister Akuntansi"
+    },
+    {
+        "id": "03.03.06.01",
+        "fakultas": "Ekonomi dan Bisnis",
+        "prodi": "S1 Ekstensi Akuntansi"
+    },
+    {
+        "id": "02.03.06.01",
+        "fakultas": "Ekonomi dan Bisnis",
+        "prodi": "S1 Reguler Akuntansi"
+    },
+    {
+        "id": "10.03.06.01",
+        "fakultas": "Ekonomi dan Bisnis",
+        "prodi": "S1 Paralel Akuntansi"
+    },
+    {
+        "id": "04.03.06.01",
+        "fakultas": "Ekonomi dan Bisnis",
+        "prodi": "S1 Kls Internasional Akuntansi"
+    },
+    {
+        "id": "01.03.06.01",
+        "fakultas": "Ekonomi dan Bisnis",
+        "prodi": "D3 Akuntansi"
+    },
+    {
+        "id": "05.04.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S3 Ilmu Linguistik"
+    },
+    {
+        "id": "04.04.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S2 Ilmu Linguistik"
+    },
+    {
+        "id": "03.06.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S3 Ilmu Sejarah"
+    },
+    {
+        "id": "02.06.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S2 Ilmu Sejarah"
+    },
+    {
+        "id": "04.06.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Paralel Ilmu Sejarah"
+    },
+    {
+        "id": "01.06.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Reguler Ilmu Sejarah"
+    },
+    {
+        "id": "04.02.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S3 Ilmu Politik"
+    },
+    {
+        "id": "03.02.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S2 Ilmu Politik"
+    },
+    {
+        "id": "05.02.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Paralel Ilmu Politik"
+    },
+    {
+        "id": "01.02.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Reguler Ilmu Politik"
+    },
+    {
+        "id": "02.02.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Ekstensi Ilmu Politik"
+    },
+    {
+        "id": "12.03.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S3 Ilmu Administrasi"
+    },
+    {
+        "id": "11.03.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S2 Ilmu Administrasi"
+    },
+    {
+        "id": "15.03.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Paralel Ilmu Administrasi Niaga"
+    },
+    {
+        "id": "14.03.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Paralel Ilmu Administrasi Negara"
+    },
+    {
+        "id": "13.03.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Paralel Ilmu Administrasi Fiskal"
+    },
+    {
+        "id": "05.03.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Reguler Ilmu Administrasi Fiskal"
+    },
+    {
+        "id": "09.03.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Ekstensi Ilmu Administrasi Negara"
+    },
+    {
+        "id": "10.03.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Ekstensi Ilmu Administrasi Niaga"
+    },
+    {
+        "id": "08.03.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Ekstensi Ilmu Administrasi Fiskal"
+    },
+    {
+        "id": "07.03.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Reguler Ilmu Administrasi Niaga"
+    },
+    {
+        "id": "06.03.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Reguler Ilmu Administrasi Negara"
+    },
+    {
+        "id": "02.03.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "D3 Administrasi Keuangan dan Perbankan"
+    },
+    {
+        "id": "01.03.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "D3 Administrasi Asuransi dan Aktuaria"
+    },
+    {
+        "id": "04.03.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "D3 Administrasi Perpajakan"
+    },
+    {
+        "id": "03.03.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "D3 Administrasi Perkantoran dan Sekretaris"
+    },
+    {
+        "id": "03.04.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S3 Sosiologi"
+    },
+    {
+        "id": "02.04.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S2 Sosiologi"
+    },
+    {
+        "id": "04.04.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Paralel Sosiologi"
+    },
+    {
+        "id": "01.04.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Reguler Sosiologi"
+    },
+    {
+        "id": "04.05.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S3 Kriminologi"
+    },
+    {
+        "id": "03.05.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S2 Kriminologi"
+    },
+    {
+        "id": "05.05.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Paralel Kriminologi"
+    },
+    {
+        "id": "02.05.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Ekstensi Kriminologi - Ekstensi"
+    },
+    {
+        "id": "01.05.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Reguler Kriminologi"
+    },
+    {
+        "id": "04.07.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S3 Antropologi"
+    },
+    {
+        "id": "03.07.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S2 Antropologi"
+    },
+    {
+        "id": "06.07.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Ekstensi Antropologi Sosial"
+    },
+    {
+        "id": "05.07.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Paralel Antropologi Sosial"
+    },
+    {
+        "id": "02.07.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Reguler Antropologi Sosial"
+    },
+    {
+        "id": "01.07.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "D3 Pariwisata"
+    },
+    {
+        "id": "06.08.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S3 Hubungan Internasional"
+    },
+    {
+        "id": "02.08.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S2 Ilmu Hubungan Internasional"
+    },
+    {
+        "id": "03.08.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S2 Kajian Terorisme dalam Keamanan Internasional"
+    },
+    {
+        "id": "05.08.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Ekstensi Ilmu Hubungan Internasional"
+    },
+    {
+        "id": "04.08.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Paralel Ilmu Hubungan Internasional"
+    },
+    {
+        "id": "01.08.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Reguler Ilmu Hubungan Internasional"
+    },
+    {
+        "id": "02.00.19.01",
+        "fakultas": "Ilmu Lingkungan",
+        "prodi": "S3 Ilmu Lingkungan"
+    },
+    {
+        "id": "01.00.19.01",
+        "fakultas": "Ilmu Lingkungan",
+        "prodi": "S2 Ilmu Lingkungan"
+    },
+    {
+        "id": "03.00.19.01",
+        "fakultas": "Ilmu Lingkungan",
+        "prodi": "S2 Manajemen Bencana"
+    },
+    {
+        "id": "10.00.20.01",
+        "fakultas": "Kajian Stratejik dan Global",
+        "prodi": "S3 Kajian Stratejik dan Global"
+    },
+    {
+        "id": "08.00.20.01",
+        "fakultas": "Kajian Stratejik dan Global",
+        "prodi": "S2 Kajian Pengembangan Perkotaan"
+    },
+    {
+        "id": "06.00.20.01",
+        "fakultas": "Kajian Stratejik dan Global",
+        "prodi": "S2 Kajian Wilayah Jepang"
+    },
+    {
+        "id": "04.00.20.01",
+        "fakultas": "Kajian Stratejik dan Global",
+        "prodi": "S2 Kajian Wilayah Amerika"
+    },
+    {
+        "id": "02.00.20.01",
+        "fakultas": "Kajian Stratejik dan Global",
+        "prodi": "S2 Kajian Ilmu Kepolisian"
+    },
+    {
+        "id": "05.00.20.01",
+        "fakultas": "Kajian Stratejik dan Global",
+        "prodi": "S2 Kajian Wilayah Eropa"
+    },
+    {
+        "id": "09.00.20.01",
+        "fakultas": "Kajian Stratejik dan Global",
+        "prodi": "S2 Kajian Terorisme"
+    },
+    {
+        "id": "01.00.20.01",
+        "fakultas": "Kajian Stratejik dan Global",
+        "prodi": "S2 Kajian Ketahanan Nasional"
+    },
+    {
+        "id": "03.00.20.01",
+        "fakultas": "Kajian Stratejik dan Global",
+        "prodi": "S2 Kajian Gender"
+    },
+    {
+        "id": "07.00.20.01",
+        "fakultas": "Kajian Stratejik dan Global",
+        "prodi": "S2 Kajian Wilayah Timur Tengah dan Islam"
+    },
+    {
+        "id": "11.00.18.01",
+        "fakultas": "Ilmu Administrasi",
+        "prodi": "S3 Ilmu Administrasi"
+    },
+    {
+        "id": "12.00.18.01",
+        "fakultas": "Ilmu Administrasi",
+        "prodi": "S2 Kebijakan Publik dan Governansi"
+    },
+    {
+        "id": "10.00.18.01",
+        "fakultas": "Ilmu Administrasi",
+        "prodi": "S2 Ilmu Administrasi"
+    },
+    {
+        "id": "09.00.18.01",
+        "fakultas": "Ilmu Administrasi",
+        "prodi": "S1 Ekstensi Ilmu Administrasi Niaga"
+    },
+    {
+        "id": "08.00.18.01",
+        "fakultas": "Ilmu Administrasi",
+        "prodi": "S1 Ekstensi Ilmu Administrasi Negara"
+    },
+    {
+        "id": "07.00.18.01",
+        "fakultas": "Ilmu Administrasi",
+        "prodi": "S1 Ekstensi Ilmu Administrasi Fiskal"
+    },
+    {
+        "id": "05.00.18.01",
+        "fakultas": "Ilmu Administrasi",
+        "prodi": "S1 Paralel Ilmu Administrasi Negara"
+    },
+    {
+        "id": "04.00.18.01",
+        "fakultas": "Ilmu Administrasi",
+        "prodi": "S1 Paralel Ilmu Administrasi Fiskal"
+    },
+    {
+        "id": "03.00.18.01",
+        "fakultas": "Ilmu Administrasi",
+        "prodi": "S1 Reguler Ilmu Administrasi Niaga"
+    },
+    {
+        "id": "01.00.18.01",
+        "fakultas": "Ilmu Administrasi",
+        "prodi": "S1 Reguler Ilmu Administrasi Fiskal"
+    },
+    {
+        "id": "06.00.18.01",
+        "fakultas": "Ilmu Administrasi",
+        "prodi": "S1 Paralel Ilmu Administrasi Niaga"
+    },
+    {
+        "id": "02.00.18.01",
+        "fakultas": "Ilmu Administrasi",
+        "prodi": "S1 Reguler Ilmu Administrasi Negara"
+    },
+    {
+        "id": "11.00.14.01",
+        "fakultas": "Pascasarjana",
+        "prodi": "S3 Ilmu Lingkungan"
+    },
+    {
+        "id": "10.00.14.01",
+        "fakultas": "Pascasarjana",
+        "prodi": "S2 Kajian Wilayah Timur Tengah Islam"
+    },
+    {
+        "id": "06.00.14.01",
+        "fakultas": "Pascasarjana",
+        "prodi": "S2 Kajian Gender"
+    },
+    {
+        "id": "05.00.14.01",
+        "fakultas": "Pascasarjana",
+        "prodi": "S2 Kajian Pengembangan Perkotaan"
+    },
+    {
+        "id": "01.00.14.01",
+        "fakultas": "Pascasarjana",
+        "prodi": "S2 Kajian Ilmu Kepolisian"
+    },
+    {
+        "id": "09.00.14.01",
+        "fakultas": "Pascasarjana",
+        "prodi": "S2 Kajian Wilayah Jepang"
+    },
+    {
+        "id": "03.00.14.01",
+        "fakultas": "Pascasarjana",
+        "prodi": "S2 Kajian Kependudukan &amp; Ketenagaan Kerja"
+    },
+    {
+        "id": "04.00.14.01",
+        "fakultas": "Pascasarjana",
+        "prodi": "S2 Kajian Ketahanan Nasional"
+    },
+    {
+        "id": "12.00.14.01",
+        "fakultas": "Pascasarjana",
+        "prodi": "S2 Teknologi Biomedis"
+    },
+    {
+        "id": "07.00.14.01",
+        "fakultas": "Pascasarjana",
+        "prodi": "S2 Kajian Wilayah Amerika"
+    },
+    {
+        "id": "08.00.14.01",
+        "fakultas": "Pascasarjana",
+        "prodi": "S2 Kajian Wilayah Eropa"
+    },
+    {
+        "id": "02.00.14.01",
+        "fakultas": "Pascasarjana",
+        "prodi": "S2 Kajian Ilmu Lingkungan"
+    },
+    {
+        "id": "03.01.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S3 Arkeologi"
+    },
+    {
+        "id": "02.01.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S2 Arkeologi"
+    },
+    {
+        "id": "04.01.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Paralel Arkeologi"
+    },
+    {
+        "id": "01.01.07.01",
+        "fakultas": "Ilmu Pengetahuan Budaya",
+        "prodi": "S1 Reguler Arkeologi"
+    },
+    {
+        "id": "04.05.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "Profesi Apoteker"
+    },
+    {
+        "id": "07.05.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S3 Ilmu Farmasi"
+    },
+    {
+        "id": "05.05.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S2 Ilmu Kefarmasian"
+    },
+    {
+        "id": "08.05.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S2 Herbal"
+    },
+    {
+        "id": "06.05.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S1 Paralel Farmasi"
+    },
+    {
+        "id": "03.05.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S1 Ekstensi Farmasi - Ekstensi"
+    },
+    {
+        "id": "02.05.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "S1 Reguler Farmasi"
+    },
+    {
+        "id": "01.05.03.01",
+        "fakultas": "Matematika dan Ilmu Pengetahuan Alam",
+        "prodi": "D3 Farmasi Rumah Sakit dan Distribusi Pemasaran"
+    },
+    {
+        "id": "05.01.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S3 Ilmu Komunikasi"
+    },
+    {
+        "id": "04.01.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S2 Ilmu Komunikasi"
+    },
+    {
+        "id": "06.01.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Paralel Ilmu Komunikasi"
+    },
+    {
+        "id": "07.01.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Kls Internasional Ilmu Komunikasi"
+    },
+    {
+        "id": "02.01.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Reguler Ilmu Komunikasi"
+    },
+    {
+        "id": "03.01.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "S1 Ekstensi Ilmu Komunikasi - Ekstensi"
+    },
+    {
+        "id": "01.01.09.01",
+        "fakultas": "Ilmu Sosial dan Ilmu Politik",
+        "prodi": "D3 Komunikasi"
+    },
+    {
+        "id": "54.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 2 Anestesiologi dan Terapi Intensif"
+    },
+    {
+        "id": "56.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 2 Orthopaedi dan Traumatologi"
+    },
+    {
+        "id": "51.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 2 Ilmu Bedah"
+    },
+    {
+        "id": "50.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 2 Ilmu Kesehatan Anak"
+    },
+    {
+        "id": "57.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 2 Urologi"
+    },
+    {
+        "id": "52.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 2 Obstetri dan Ginekologi"
+    },
+    {
+        "id": "53.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 2 Kedokteran Jiwa"
+    },
+    {
+        "id": "48.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 2 Ilmu Penyakit Dalam"
+    },
+    {
+        "id": "59.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 2 Jantung dan Pembuluh Darah"
+    },
+    {
+        "id": "03.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "D4 Ilmu Gizi"
+    },
+    {
+        "id": "23.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Ilmu Penyakit Jantung dan Pembuluh Darah"
+    },
+    {
+        "id": "55.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Kedokteran Keluarga Layanan Primer"
+    },
+    {
+        "id": "47.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Akupunktur Medik"
+    },
+    {
+        "id": "15.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Ilmu Penyakit Dalam"
+    },
+    {
+        "id": "29.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Orthopaedi dan Traumatologi"
+    },
+    {
+        "id": "31.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Ilmu Bedah Saraf"
+    },
+    {
+        "id": "27.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Patologi Anatomik"
+    },
+    {
+        "id": "44.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Kedokteran Penerbangan"
+    },
+    {
+        "id": "18.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Neurologi"
+    },
+    {
+        "id": "32.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Ilmu Kedokteran Fisik dan Rehabilitasi"
+    },
+    {
+        "id": "46.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Parasitologi Klinik"
+    },
+    {
+        "id": "43.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Onkologi Radiasi"
+    },
+    {
+        "id": "30.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Urologi"
+    },
+    {
+        "id": "24.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Pulmonologi dan Kedokteran Respirasi"
+    },
+    {
+        "id": "17.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Obstetri dan Ginekologi"
+    },
+    {
+        "id": "26.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Kedokteran Forensik dan Studi Medikolegal"
+    },
+    {
+        "id": "34.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Ilmu Kedokteran Olah Raga"
+    },
+    {
+        "id": "45.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Ilmu Gizi Klinik"
+    },
+    {
+        "id": "13.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Anestesiologi dan Terapi Intensif"
+    },
+    {
+        "id": "58.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Pendidikan Dokter Spesialis Kedokteran Emergensi"
+    },
+    {
+        "id": "14.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Ilmu Bedah"
+    },
+    {
+        "id": "28.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Patologi Klinik"
+    },
+    {
+        "id": "21.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Dermatologi dan Venereologi"
+    },
+    {
+        "id": "20.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Ilmu Kesehatan Mata"
+    },
+    {
+        "id": "39.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Kedokteran Okupasi"
+    },
+    {
+        "id": "36.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Farmakologi Klinik"
+    },
+    {
+        "id": "35.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Mikrobiologi Klinik"
+    },
+    {
+        "id": "22.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Ilmu Kesehatan Telinga Hidung Tenggorok, Bedah Kepala Leher"
+    },
+    {
+        "id": "19.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Ilmu Kedokteran Jiwa"
+    },
+    {
+        "id": "16.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Ilmu Kesehatan Anak"
+    },
+    {
+        "id": "41.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Bedah Toraks, Kardiak dan Vaskular"
+    },
+    {
+        "id": "25.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Radiologi"
+    },
+    {
+        "id": "33.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Spesialis 1 Ilmu Bedah Plastik Rekonstruksi dan Estetik"
+    },
+    {
+        "id": "42.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Profesi Kls Internasional Pendidikan Dokter"
+    },
+    {
+        "id": "06.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "Profesi Pendidikan Dokter"
+    },
+    {
+        "id": "12.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "S3 Ilmu Kedokteran"
+    },
+    {
+        "id": "11.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "S3 Ilmu Gizi"
+    },
+    {
+        "id": "10.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "S3 Ilmu Biomedik"
+    },
+    {
+        "id": "08.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "S2 Ilmu Gizi"
+    },
+    {
+        "id": "09.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "S2 Kedokteran Kerja"
+    },
+    {
+        "id": "07.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "S2 Ilmu Biomedik"
+    },
+    {
+        "id": "49.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "S2 Kedokteran Klinis"
+    },
+    {
+        "id": "40.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "S2 Pendidikan Kedokteran"
+    },
+    {
+        "id": "05.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "S1 Kls Internasional Pendidikan Dokter"
+    },
+    {
+        "id": "04.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "S1 Reguler Pendidikan Dokter"
+    },
+    {
+        "id": "02.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "D3 Rehabilitasi Medik"
+    },
+    {
+        "id": "01.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "D3 Perumahsakitan"
+    },
+    {
+        "id": "37.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "D3 Fisioterapi"
+    },
+    {
+        "id": "38.00.01.01",
+        "fakultas": "Kedokteran",
+        "prodi": "D3 Okupasi Terapi"
+    },
+    {
+        "id": "10.00.13.01",
+        "fakultas": "Ilmu Keperawatan",
+        "prodi": "Spesialis 1 Spesialis Keperawatan Anak"
+    },
+    {
+        "id": "06.00.13.01",
+        "fakultas": "Ilmu Keperawatan",
+        "prodi": "Spesialis 1 Spesialis Keperawatan Maternitas"
+    },
+    {
+        "id": "05.00.13.01",
+        "fakultas": "Ilmu Keperawatan",
+        "prodi": "Spesialis 1 Spesialis Keperawatan Komunitas"
+    },
+    {
+        "id": "08.00.13.01",
+        "fakultas": "Ilmu Keperawatan",
+        "prodi": "Spesialis 1 Spesialis Keperawatan Jiwa"
+    },
+    {
+        "id": "07.00.13.01",
+        "fakultas": "Ilmu Keperawatan",
+        "prodi": "Spesialis 1 Spesialis Keperawatan Medikal Bedah"
+    },
+    {
+        "id": "11.00.13.01",
+        "fakultas": "Ilmu Keperawatan",
+        "prodi": "Spesialis 1 Spesialis Keperawatan Onkologi"
+    },
+    {
+        "id": "03.00.13.01",
+        "fakultas": "Ilmu Keperawatan",
+        "prodi": "Profesi Profesi Ners"
+    },
+    {
+        "id": "09.00.13.01",
+        "fakultas": "Ilmu Keperawatan",
+        "prodi": "S3 Ilmu Keperawatan"
+    },
+    {
+        "id": "04.00.13.01",
+        "fakultas": "Ilmu Keperawatan",
+        "prodi": "S2 Ilmu Keperawatan"
+    },
+    {
+        "id": "02.00.13.01",
+        "fakultas": "Ilmu Keperawatan",
+        "prodi": "S1 Ekstensi Ilmu Keperawatan"
+    },
+    {
+        "id": "01.00.13.01",
+        "fakultas": "Ilmu Keperawatan",
+        "prodi": "S1 Reguler Ilmu Keperawatan"
+    },
+    {
+        "id": "12.00.13.01",
+        "fakultas": "Ilmu Keperawatan",
+        "prodi": "S1 Paralel Ilmu Keperawatan"
+    },
+    {
+        "id": "03.00.17.01",
+        "fakultas": "Farmasi",
+        "prodi": "Profesi Apoteker"
+    },
+    {
+        "id": "06.00.17.01",
+        "fakultas": "Farmasi",
+        "prodi": "S3 Ilmu Farmasi"
+    },
+    {
+        "id": "04.00.17.01",
+        "fakultas": "Farmasi",
+        "prodi": "S2 Ilmu Kefarmasian"
+    },
+    {
+        "id": "05.00.17.01",
+        "fakultas": "Farmasi",
+        "prodi": "S2 Herbal"
+    },
+    {
+        "id": "02.00.17.01",
+        "fakultas": "Farmasi",
+        "prodi": "S1 Paralel Farmasi"
+    },
+    {
+        "id": "01.00.17.01",
+        "fakultas": "Farmasi",
+        "prodi": "S1 Reguler Farmasi"
+    }
+]
