@@ -90,17 +90,18 @@ async def root(request: Request, service="", ticket=""):
 
 @app.get("/validate")
 async def validate(request: Request, token=""):
-    if not token:
-        return {"error": "Token is not valid"}
+    try:
+        if not token:
+            return {"error": "Token is not valid"}
+        
+        decoded = jwt.decode(token.strip(), SECRET_KEY, algorithms=["HS256"])
+        
+        csv = ",".join([f"{value}" for key, value in decoded.items()])
+        
+        return csv
+    except:
+        return "Token is Not Valid"
     
-    decoded = jwt.decode(token.strip(), SECRET_KEY, algorithms=["HS256"])
-    
-    return {
-        "status": "Token is valid",
-        "data": decoded
-    }
-    
-
 if __name__ == '__main__':
     import uvicorn
     uvicorn.run(app)
