@@ -69,7 +69,6 @@ async def root(request: Request, service="", ticket=""):
         faculty = (user_faculty_data["fakultas"]).replace(" ", "+")
         major = user_faculty_data["prodi"].replace(" ", "+")
         
-        
         if (npm_prefix == "22"):
             batch = "2022"
         elif (npm_prefix == "23"):
@@ -80,8 +79,6 @@ async def root(request: Request, service="", ticket=""):
         
         form_link = f"https://docs.google.com/forms/d/e/1FAIpQLSeV_S_yNn9ZNtqTl__qULJZ-KwGH0uWmQGnm2n7fOIEvkmJFQ/viewform?usp=pp_url&entry.194718133={token}&entry.1937980029={name}&entry.1698494109=Fakultas+{faculty}&entry.1912384214={major}&entry.430556260={batch}&entry.713211935={user}@ui.ac.id"
         
-        print(f"Redirecting to: {form_link}")
-        
         return RedirectResponse(url=form_link)
         
     except ET.ParseError as e:
@@ -91,6 +88,18 @@ async def root(request: Request, service="", ticket=""):
         print(f"Unexpected Error: {e}")
         return {"error": "An unexpected error occurred", "details": str(e)}
 
+@app.get("/validate")
+async def validate(request: Request, token=""):
+    if not token:
+        return {"error": "Token is not valid"}
+    
+    decoded = jwt.decode(token.strip(), SECRET_KEY, algorithms=["HS256"])
+    
+    return {
+        "status": "Token is valid",
+        "data": decoded
+    }
+    
 
 if __name__ == '__main__':
     import uvicorn
