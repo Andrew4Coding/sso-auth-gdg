@@ -1,0 +1,1 @@
+{'user': 'andrew.devito', 'ldap_cn': 'Andrew Devito Aryo', 'organizational_code': '01.00.12.01', 'role': 'staff', 'name': 'Andrew Devito Aryo', 'npm': '2306152494'}

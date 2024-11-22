@@ -4,29 +4,15 @@ import urllib.request
 from fastapi import FastAPI, Request
 from fastapi.responses import RedirectResponse
 import jwt
-from datetime import datetime, timedelta
 from dotenv import load_dotenv
 
-# Load environment variables from a .env file (optional)
+# Load environment variables from a .env file
 load_dotenv()
 
 app = FastAPI()
 
 # Load the secret key from environment variable
 SECRET_KEY = os.getenv("SECRET_KEY") 
-
-if not SECRET_KEY:
-    SECRET_KEY = "hehe"
-
-def create_jwt(payload: dict, secret: str, algorithm: str = "HS256"):
-    """
-    Create a JWT token with the given payload.
-    """
-    expiration = datetime.utcnow() + timedelta(hours=1)  # Token valid for 1 hour
-    payload.update({"exp": expiration})  # Add expiration to the payload
-    token = jwt.encode(payload, secret, algorithm)
-    return token
-
 
 @app.get("/")
 async def root(request: Request, service="", ticket=""):
