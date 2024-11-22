@@ -65,7 +65,7 @@ async def root(request: Request, service="", ticket=""):
         }
         
         # Encrypt the data with JWT
-        token = create_jwt(payload, SECRET_KEY)
+        token = jwt.encode(payload=payload, key=SECRET_KEY, algorithm='HS256')
         
         form_link = f"https://docs.google.com/forms/d/e/1FAIpQLSeV_S_yNn9ZNtqTl__qULJZ-KwGH0uWmQGnm2n7fOIEvkmJFQ/viewform?usp=pp_url&entry.194718133={token}"
         
