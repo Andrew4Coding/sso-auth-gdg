@@ -32,8 +32,11 @@ async def root(request: Request, service="", ticket=""):
     fetch_url = f"https://sso.ui.ac.id/cas2/serviceValidate?service={current_url}&ticket={ticket}"
     
     try:
+        print("Fetching URL:", fetch_url)  # Debugging line to check the fetch URL
         with urllib.request.urlopen(fetch_url) as response:
             raw_data = response.read().decode("utf-8")
+
+        print("Raw XML Data:", raw_data)  # Debugging line to check the raw XML data
         
         cleaned_xml = raw_data.strip()
         root = ET.fromstring(cleaned_xml)
@@ -55,6 +58,8 @@ async def root(request: Request, service="", ticket=""):
             "name": name,
             "npm": npm
         }
+
+        print("Parsed User Data:", payload)  # Debugging line to check parsed user data
         
         
         # Get Json Data based on organizational code
@@ -76,8 +81,8 @@ async def root(request: Request, service="", ticket=""):
         elif (npm_prefix == "24"):
             batch = "2024"
 
-        
-        form_link = f"https://docs.google.com/forms/d/e/1FAIpQLSeV_S_yNn9ZNtqTl__qULJZ-KwGH0uWmQGnm2n7fOIEvkmJFQ/viewform?usp=pp_url&entry.194718133={token}&entry.1937980029={name}&entry.1698494109=Fakultas+{faculty}&entry.1912384214={major}&entry.430556260={batch}&entry.713211935={user}@ui.ac.id"
+
+        form_link = f"https://docs.google.com/forms/d/e/1FAIpQLSdpNXKvzx0HnAXdXuGl_IZ2IT9f9oAUZZkcHkycWAGWQxGkfQ/viewform?usp=pp_url&entry.192350530={token}&entry.576572448={name}&entry.1125842942={user}@ui.ac.id&entry.726563284={'Fakultas+' + faculty}&entry.611891497={major}&entry.201197880={batch}"
         
         return RedirectResponse(url=form_link)
         
