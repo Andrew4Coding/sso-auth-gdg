@@ -74,13 +74,12 @@ async def root(request: Request, service="", ticket=""):
         faculty = (user_faculty_data["fakultas"]).replace(" ", "+")
         major = user_faculty_data["prodi"].replace(" ", "+")
         
-        if (npm_prefix == "22"):
-            batch = "2022"
-        elif (npm_prefix == "23"):
+        if (npm_prefix == "23"):
             batch = "2023"
         elif (npm_prefix == "24"):
             batch = "2024"
-
+        elif (npm_prefix == "25"):
+            batch = "2025"
 
         form_link = f"https://docs.google.com/forms/d/e/1FAIpQLSdpNXKvzx0HnAXdXuGl_IZ2IT9f9oAUZZkcHkycWAGWQxGkfQ/viewform?usp=pp_url&entry.192350530={token}&entry.576572448={name}&entry.1125842942={user}@ui.ac.id&entry.726563284={'Fakultas+' + faculty}&entry.611891497={major}&entry.201197880={batch}"
         
