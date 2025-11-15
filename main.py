@@ -23,6 +23,10 @@ with open ("parsed.json", "r") as file:
 
 @app.get("/")
 async def root(request: Request, service="", ticket=""):
+
+    # Direcly redirect to main URL
+    return RedirectResponse(f"https://docs.google.com/forms/d/e/1FAIpQLSdpNXKvzx0HnAXdXuGl_IZ2IT9f9oAUZZkcHkycWAGWQxGkfQ/viewform?usp=pp_url&entry.192350530={'thisisatoken'}")
+
     current_url = request.url
     
     if not service and not ticket:
