@@ -23,6 +23,7 @@ with open ("parsed.json", "r") as file:
 
 @app.get("/")
 async def root(request: Request, service="", ticket=""):
+
     current_url = request.url
     
     if not service and not ticket:
