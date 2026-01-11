@@ -13,8 +13,7 @@ load_dotenv()
 app = FastAPI()
 
 # Load the secret key from environment variable
-SECRET_KEY = os.getenv("SECRET_KEY") 
-
+SECRET_KEY = os.getenv("SECRET_KEY", "lmaopisan") 
 
 # Open Json
 with open ("parsed.json", "r") as file:
@@ -82,7 +81,7 @@ async def root(request: Request, service="", ticket=""):
         elif (npm_prefix == "25"):
             batch = "2025"
 
-        form_link = f"https://docs.google.com/forms/d/e/1FAIpQLSdpNXKvzx0HnAXdXuGl_IZ2IT9f9oAUZZkcHkycWAGWQxGkfQ/viewform?usp=pp_url&entry.192350530={token}&entry.576572448={name}&entry.1125842942={user}@ui.ac.id&entry.726563284={'Fakultas+' + faculty}&entry.611891497={major}&entry.201197880={batch}"
+        form_link = f"https://docs.google.com/forms/d/e/1FAIpQLSc2gqF48owujuWDduQbBV1HGgyh0UDVkvrvo8cMxdjjRRXETA/viewform?usp=pp_url&entry.194718133={token}&entry.1937980029={name}&entry.1698494109={'Fakultas+' + faculty}&entry.1912384214={major}&entry.430556260={batch}&entry.713211935={user}@ui.ac.id"
         
         return RedirectResponse(url=form_link)
         
