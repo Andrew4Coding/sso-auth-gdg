@@ -20,7 +20,7 @@ with open ("parsed.json", "r") as file:
     faculty_data = json.load(file)
     
 
-@app.get("/")
+@app.get("/member")
 async def root(request: Request, service="", ticket=""):
 
     current_url = request.url
@@ -82,7 +82,7 @@ async def root(request: Request, service="", ticket=""):
             batch = "2025"
 
         form_link = f"https://docs.google.com/forms/d/e/1FAIpQLSc2gqF48owujuWDduQbBV1HGgyh0UDVkvrvo8cMxdjjRRXETA/viewform?usp=pp_url&entry.194718133={token}&entry.1937980029={name}&entry.1698494109={'Fakultas+' + faculty}&entry.1912384214={major}&entry.430556260={batch}&entry.713211935={user}@ui.ac.id"
-        
+
         return RedirectResponse(url=form_link)
         
     except ET.ParseError as e:
